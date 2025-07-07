@@ -20,6 +20,8 @@ In the initial data preparation phase, we performed the following task.
  - Handling missing values
  - Data cleabing and formatting.
 
+### Exploratory Data Analysi (EDA) 
+
 #### Main Dishes (highest revenue)
 2. Starters
 3. Desserts
